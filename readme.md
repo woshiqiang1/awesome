@@ -423,6 +423,7 @@
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 - [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
 - [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+- [JavaScript UI-kit Library](https://github.com/woshiqiang1/awesome-javascript-ui-kit-library#readme) - Collection of high quality JavaScript UI-kit libraries.
 
 ## Back-End Development
 
